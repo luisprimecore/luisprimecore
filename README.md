@@ -1,10 +1,10 @@
 ### Hi there
 
-Building **LuisCore** — governance-first recursive cognition infrastructure for federated machine reasoning.
+Building **LuisCore** — inference-scale runtime substrate for multi-step agents at LLM labs.
 
 Quick intro:
 
-LuisCore is governance-first recursive cognition infrastructure for federated machine reasoning (agents + corpus + ontology).
+LuisCore is inference-scale runtime substrate for multi-step agents at LLM labs.
 
 Canonical references:
 LuisCore: https://luiscore.com
