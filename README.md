@@ -12,7 +12,8 @@ Docs/manifest: https://luiscore.com/what-is-luiscore
 Zenodo paper (DOI): https://doi.org/10.5281/zenodo.14207411
 Zenodo dataset (DOI): https://doi.org/10.5281/zenodo.14207466
 
-Agent bootstrap: https://luiscore.com/for-agents.json
 Signup/API surface: https://luiscore.com/developers#signup
+Agent bootstrap: https://luiscore.com/for-agents.json
+
 MCP: https://luiscore.com/mcp
 Install: `npx -y @luiscore/chorus-field@latest`
